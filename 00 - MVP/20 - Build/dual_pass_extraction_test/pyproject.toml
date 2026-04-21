@@ -1,0 +1,9 @@
+[project]
+name = "dual-pass-extraction-test"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.86.0",
+    "pyyaml>=6.0.3",
+]
