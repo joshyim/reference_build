@@ -1,6 +1,10 @@
-# Reference Build — Knowledge Navigator on AI podcasts
+# Reference Build — AI podcast Knowledge Navigator 
 
-A reference build of an AI application. This is a knowledge retrieval on top of AI podcasts: currently limited to **AI That Works**.
+A reference of how I build knowledge Navigator that creates response from populart AI podcast with references to source episodes.
+Currently limited to **AI That Works**.
+
+## Test Drive it at:
+https://atw-nav.vercel.app/
 
 ## Tech Stack
 
