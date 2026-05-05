@@ -1,6 +1,6 @@
-# Reference Build — AI That Works Knowledge Retrieval
+# Reference Build — Knowledge Navigator on AI podcasts
 
-A reference build of an AI application. This is a knowledge retrieval frontend on top of one of my favorite AI podcasts: **AI That Works**.
+A reference build of an AI application. This is a knowledge retrieval on top of AI podcasts: currently limited to **AI That Works**.
 
 ## Tech Stack
 
