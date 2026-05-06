@@ -1,4 +1,4 @@
-Epic 4: Pass 1 — Transcript Segmentation - BE
+# Epic 4: Pass 1 — Transcript Segmentation - BE
 
 This plan outlines the implementation for segmenting transcripts into topical blocks, focusing on data persistence and idempotency. The goal is to ensure each pipeline run can parse transcripts via LLM (using out-of-the-box BAML configurations that already instruct the model to filter intro banter and tangents), construct the structured segments rows, and accurately upsert them into the database.
 

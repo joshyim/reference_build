@@ -1,6 +1,4 @@
-Exported from Antigravity conversation 51265ba5-226a-4824-889d-5b36d3430f3e
-
-Walkthrough: Transcript Segmentation Pipeline (Epic 4 / ATW-7)
+# Walkthrough: Transcript Segmentation Pipeline (Epic 4 / ATW-7)
 
 This walkthrough documents the completion of the backend portion of the Transcript Segmentation feature, satisfying Epic 4.
 
